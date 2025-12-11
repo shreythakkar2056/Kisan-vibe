@@ -1,0 +1,8 @@
+{
+  "name": "Kisan-Vibe",
+  "description": "AI-powered crop disease diagnosis and insurance eligibility assistant for farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
